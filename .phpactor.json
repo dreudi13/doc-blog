@@ -1,0 +1,11 @@
+{
+    "navigator.destinations": {
+        "doc_core": "src/Core/src/<kernel>.php",
+        "doc_core_spec": "src/Core/spec/<kernel>Spec.php",
+        "doc_core_unit": "src/Core/tests/<kernel>Test.php"
+    },
+    "navigator.autocreate": {
+        "source": "default",
+        "test": "phpunit"
+    }
+}

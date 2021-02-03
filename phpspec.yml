@@ -1,0 +1,9 @@
+suites:
+
+    doc_core_suite:
+        namespace: Doc\Core
+        psr4_prefix: Doc\Core
+        src_path: '%paths.config%/src/Core/src'
+        spec_path: '%paths.config%/src/Core/'
+
+formatter.name: pretty
