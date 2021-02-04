@@ -87,6 +87,8 @@
         "desc": "vendor/bin/phpspec desc",
         "run": "version/bin/phpspec run",
         "unit": "vendor/bin/simple-phpunit",
+        "cscheck": "vendor/bin/phpcs",
+        "csfix": "vendor/bin/phpcbf",
         "auto-scripts": {
             "cache:clear": "symfony-cmd",
             "assets:install %PUBLIC_DIR%": "symfony-cmd"
