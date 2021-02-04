@@ -10,7 +10,7 @@
 
     <rule ref="PSR12"/>
 
-    <file>src/Core/src</file>
+    <file>public</file>
 
 </ruleset>
 
