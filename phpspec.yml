@@ -1,9 +1,9 @@
 suites:
 
-    doc_core_suite:
-        namespace: Doc\Core
-        psr4_prefix: Doc\Core
-        src_path: '%paths.config%/src/Core/src'
-        spec_path: '%paths.config%/src/Core/'
+    doc_blog_suite:
+        namespace: Doc\Blog
+        psr4_prefix: Doc\Blog
+        src_path: '%paths.config%/src/Blog/src'
+        spec_path: '%paths.config%/src/Blog/'
 
 formatter.name: pretty

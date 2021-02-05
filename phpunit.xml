@@ -18,7 +18,6 @@
     <testsuites>
 
         <testsuite name="Doc">
-          <directory>src/Core/tests</directory>
           <directory>src/Blog/tests</directory>
         </testsuite>
 
